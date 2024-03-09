@@ -1,4 +1,4 @@
-# Propensity-Scores-Matching-Using-Python
+# Propensity-Score-Matching-Using-Python
 
 This project demonstrates the implementation of propensity score matching, a statistical technique used to estimate the treatment effect in observational studies. Propensity score matching aims to mimic the characteristics of a randomized controlled trial by balancing the covariates between the treatment and control groups.
 
