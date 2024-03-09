@@ -27,7 +27,7 @@ The script will load the dataset, preprocess the data, build propensity score mo
 
 Dataset
 The dataset used in this project is available on the URL:
-""
+"https://raw.githubusercontent.com/KenDaupsey/Propensity-Score-Matching-Using-Python/main/Propensity%20Score%7EDataset.csv"
 
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
